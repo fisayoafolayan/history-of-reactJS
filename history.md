@@ -4,7 +4,7 @@
 
 # The History of React.
 
-ReactJS started out as a library for [XHP](link here). XHP is [Facebook's](www.facebook.com) version of php, which was open-sourced in 2010. The aim of creating XHP was to make frontend development easier and help avoid cross-site scripting attacks (XSS). XSS is a very common attack vector that inserts malicious codes into a web application. 
+ReactJS started out as a library for [XHP](https://web.facebook.com/notes/facebook-engineering/xhp-a-new-way-to-write-php/294003943919/?_rdc=1&_rdr). XHP is [Facebook's](www.facebook.com) version of php, which was open-sourced in 2010. The aim of creating XHP was to make frontend development easier and help avoid cross-site scripting attacks (XSS). XSS is a very common attack vector that inserts malicious codes into a web application. 
 
 XSS does not attack the web application directly, instead, it attacks the users of such web applications by attaching an embedded javascript code to the user's request which in turn steals information and compromises the integrity of the user trying to access a resource on a web application. 
 
