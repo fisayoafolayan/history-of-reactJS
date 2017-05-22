@@ -1,6 +1,6 @@
 
 
-![React_banner](/images/React_banner.png)
+![React_banner](/images/react_banner.png)
 
 # The History of React.
 
