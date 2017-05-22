@@ -19,13 +19,6 @@ Now, around this same time when Facebook started using react on the like and com
 May 2013, react was open-sourced at JSConf in the United States. And from then till now, many developers across the world actively use react in production. Companies like, Trello, Slack, Docker, Airbnb, Khan Academy, New York Times, Codeacademy to mention a few actively use react.
 
 
-
-#### So what is React?
-
-React is simply a JavaScript library for building user interfaces. That's all.
-
-> Learn Once, Write Anywhere.
-
 #### 5 Highlights of React?
 
 1. **Virtual Document Object Model:** To explain this, Let us picture a "Car" object, with 4 wheels, 4 doors, colored black, let us give it a name of "Pusher". When there is a change in any of this properties; say, the color was changed to "matte black". What react does, is to perform a "diffing algorithm", which essentially mean to identify what has changed. Once it notices the change, it then performs another step called "reconciliation", which essentially updates the DOM with the result of diffing algorithm .isn't that cool?. Instead of updating the entire DOM, it is smart enough to update just the nodes that changed.
