@@ -18,6 +18,7 @@ Now, around this same time when Facebook started using React on the like and com
 
 May 2013, React was open-sourced at JSConf in the United States. And from then till now, many developers across the world actively use React in production. Companies like, Trello, Slack, Docker, Airbnb, Khan Academy, New York Times, Codecademy to mention a few actively use React.
 
+In April 2015, Facebook released a patent as regards the usage of React; Which basically says, "In as much as you do not sue us for patent infrigement, we will give you this software for free; you can sell, distribute, import, make, and use this product. In addition, we also promise not to sue you for any patent infrigement as regards this open source software". You can read about it [here](https://github.com/facebook/react/blob/master/PATENTS). 
 
 #### 5 Highlights of React?
 
@@ -26,16 +27,6 @@ May 2013, React was open-sourced at JSConf in the United States. And from then t
 3. **React Native:** [React Native](https://facebook.github.io/React-native/) was released in 2015, The Library allows developers build real ***native*** Andriod and iOS applications using javascript and React. In effect, learning Java and Objective-C is no longer a requirement for building ***native*** applications. 
 4. **React VR:** At the just concluded [F8 Developer Conference](https://www.fbf8.com/), [React VR](https://facebook.github.io/React-vr/) was released to the public. React VR allows developers create Virtual reality (VR) applications using only Javascript. React VR also leverages on [WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) and [WebVR](https://webvr.info/) to bring the perfect VR experience to the user. Just like React, Developers can now create awesome VR experiences by using the declarative components approach.
 5. **React Fiber:** React Fiber, also know as React 16, was *introduced* to the public at React Conf 2017, It promises to be a complete reimplementation of the React core algorithm from the ground up, with support for built-in scheduling and incremental rendering. It is an update that is fully backward compatible with existing applications made with React. React Fiber is not yet ready for public consumption, but you can visit this [link](http://isfiberreadyyet.com/) to follow up with the release.
-
-
-
-### 3 main reasons why ReactJS will not be going anywhere soon.
-
-- There is a massive developer ecosystem around it, just take a look at the [list of contributors](https://github.com/facebook/React/graphs/contributors?from=2013-05-26&to=2017-05-21&type=c) to the core React repo.
-
-- Companies around the world has embraced the awesomeness of React.
-
-- The concept of learning once, and writing anywhere.
 
   ​
 
