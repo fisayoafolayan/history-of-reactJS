@@ -18,7 +18,7 @@ Now, around this same time when Facebook started using React on the like and com
 
 May 2013, React was open-sourced at JSConf in the United States. And from then till now, many developers across the world actively use React in production. Companies like, Trello, Slack, Docker, Airbnb, Khan Academy, New York Times, Codecademy to mention a few actively use React.
 
-In April 2015, Facebook released a patent as regards the usage of React; Which basically says, "In as much as you do not sue us for patent infrigement, we will give you this software for free; you can sell, distribute, import, make, and use this product. In addition, we also promise not to sue you for any patent infrigement as regards this open source software". You can read about it [here](https://github.com/facebook/react/blob/master/PATENTS). 
+In April 2015, Facebook released a patent as regards the usage of React; Which basically says, "In as much as you do not sue us for patent infringement, we will give you this software for free; you can sell, distribute, import, make, and use this product. In addition, we also promise not to sue you for any patent infringement as regards this open source software". You can read about it [here](https://github.com/facebook/react/blob/master/PATENTS). 
 
 #### 5 Highlights of React?
 
